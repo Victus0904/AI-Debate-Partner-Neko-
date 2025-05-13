@@ -1,0 +1,1 @@
+pip install streamlit python-dotenv pyttsx3 google-generativeai
